@@ -1,0 +1,1 @@
+export const API_BASE_URL = import.meta.env.VITE_MR_MANAGER_API_URL
